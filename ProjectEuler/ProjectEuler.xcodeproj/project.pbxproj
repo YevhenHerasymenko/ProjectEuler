@@ -14,6 +14,7 @@
 		74CF35791BEB690300F60F76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74CF35771BEB690300F60F76 /* LaunchScreen.storyboard */; };
 		74CF35841BEB690300F60F76 /* ProjectEulerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CF35831BEB690300F60F76 /* ProjectEulerTests.swift */; };
 		74CF358F1BEB690400F60F76 /* ProjectEulerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CF358E1BEB690400F60F76 /* ProjectEulerUITests.swift */; };
+		74CF359D1BEB697300F60F76 /* EvenFibonacciNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CF359C1BEB697300F60F76 /* EvenFibonacciNumbers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		74CF358A1BEB690300F60F76 /* ProjectEulerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProjectEulerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		74CF358E1BEB690400F60F76 /* ProjectEulerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectEulerUITests.swift; sourceTree = "<group>"; };
 		74CF35901BEB690400F60F76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		74CF359C1BEB697300F60F76 /* EvenFibonacciNumbers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EvenFibonacciNumbers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				74CF356E1BEB690300F60F76 /* AppDelegate.swift */,
 				74CF35701BEB690300F60F76 /* ViewController.swift */,
+				74CF359C1BEB697300F60F76 /* EvenFibonacciNumbers.swift */,
 				74CF35721BEB690300F60F76 /* Main.storyboard */,
 				74CF35751BEB690300F60F76 /* Assets.xcassets */,
 				74CF35771BEB690300F60F76 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				74CF35711BEB690300F60F76 /* ViewController.swift in Sources */,
 				74CF356F1BEB690300F60F76 /* AppDelegate.swift in Sources */,
+				74CF359D1BEB697300F60F76 /* EvenFibonacciNumbers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
