@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        var p = LargestPrimeNumber.answer(600851475143)
         
     }
 
