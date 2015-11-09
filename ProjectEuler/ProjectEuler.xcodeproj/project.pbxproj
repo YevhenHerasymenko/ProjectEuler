@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		74720A911BECCB7800D1DE11 /* LargestPrimeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74720A901BECCB7800D1DE11 /* LargestPrimeNumber.swift */; };
+		74BCB0DF1BF0A4F2002CCA64 /* LargestPolindromProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74BCB0DE1BF0A4F2002CCA64 /* LargestPolindromProduct.swift */; };
 		74CF356F1BEB690300F60F76 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CF356E1BEB690300F60F76 /* AppDelegate.swift */; };
 		74CF35711BEB690300F60F76 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CF35701BEB690300F60F76 /* ViewController.swift */; };
 		74CF35741BEB690300F60F76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74CF35721BEB690300F60F76 /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		74720A901BECCB7800D1DE11 /* LargestPrimeNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LargestPrimeNumber.swift; sourceTree = "<group>"; };
+		74BCB0DE1BF0A4F2002CCA64 /* LargestPolindromProduct.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LargestPolindromProduct.swift; sourceTree = "<group>"; };
 		74CF356B1BEB690300F60F76 /* ProjectEuler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProjectEuler.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74CF356E1BEB690300F60F76 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		74CF35701BEB690300F60F76 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				74CF35701BEB690300F60F76 /* ViewController.swift */,
 				74CF359C1BEB697300F60F76 /* EvenFibonacciNumbers.swift */,
 				74720A901BECCB7800D1DE11 /* LargestPrimeNumber.swift */,
+				74BCB0DE1BF0A4F2002CCA64 /* LargestPolindromProduct.swift */,
 				74CF35721BEB690300F60F76 /* Main.storyboard */,
 				74CF35751BEB690300F60F76 /* Assets.xcassets */,
 				74CF35771BEB690300F60F76 /* LaunchScreen.storyboard */,
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				74CF35711BEB690300F60F76 /* ViewController.swift in Sources */,
+				74BCB0DF1BF0A4F2002CCA64 /* LargestPolindromProduct.swift in Sources */,
 				74CF356F1BEB690300F60F76 /* AppDelegate.swift in Sources */,
 				74CF359D1BEB697300F60F76 /* EvenFibonacciNumbers.swift in Sources */,
 				74720A911BECCB7800D1DE11 /* LargestPrimeNumber.swift in Sources */,
