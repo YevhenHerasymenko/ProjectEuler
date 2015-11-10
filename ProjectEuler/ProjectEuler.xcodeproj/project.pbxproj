@@ -17,6 +17,7 @@
 		74CF35841BEB690300F60F76 /* ProjectEulerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CF35831BEB690300F60F76 /* ProjectEulerTests.swift */; };
 		74CF358F1BEB690400F60F76 /* ProjectEulerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CF358E1BEB690400F60F76 /* ProjectEulerUITests.swift */; };
 		74CF359D1BEB697300F60F76 /* EvenFibonacciNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CF359C1BEB697300F60F76 /* EvenFibonacciNumbers.swift */; };
+		74E35E821BF1FFA200A13CE8 /* SmallestMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74E35E811BF1FFA200A13CE8 /* SmallestMultiple.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		74CF358E1BEB690400F60F76 /* ProjectEulerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectEulerUITests.swift; sourceTree = "<group>"; };
 		74CF35901BEB690400F60F76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		74CF359C1BEB697300F60F76 /* EvenFibonacciNumbers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EvenFibonacciNumbers.swift; sourceTree = "<group>"; };
+		74E35E811BF1FFA200A13CE8 /* SmallestMultiple.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SmallestMultiple.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				74CF359C1BEB697300F60F76 /* EvenFibonacciNumbers.swift */,
 				74720A901BECCB7800D1DE11 /* LargestPrimeNumber.swift */,
 				74BCB0DE1BF0A4F2002CCA64 /* LargestPolindromProduct.swift */,
+				74E35E811BF1FFA200A13CE8 /* SmallestMultiple.swift */,
 				74CF35721BEB690300F60F76 /* Main.storyboard */,
 				74CF35751BEB690300F60F76 /* Assets.xcassets */,
 				74CF35771BEB690300F60F76 /* LaunchScreen.storyboard */,
@@ -265,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74E35E821BF1FFA200A13CE8 /* SmallestMultiple.swift in Sources */,
 				74CF35711BEB690300F60F76 /* ViewController.swift in Sources */,
 				74BCB0DF1BF0A4F2002CCA64 /* LargestPolindromProduct.swift in Sources */,
 				74CF356F1BEB690300F60F76 /* AppDelegate.swift in Sources */,
