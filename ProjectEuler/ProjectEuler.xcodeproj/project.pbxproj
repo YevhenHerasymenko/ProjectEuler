@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7453C5C91BF499C8003F34A7 /* FirstPrimeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7453C5C81BF499C8003F34A7 /* FirstPrimeNumber.swift */; };
 		745CBCF81BF34397009A9EEF /* SumSquareDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745CBCF71BF34397009A9EEF /* SumSquareDifference.swift */; };
 		74720A911BECCB7800D1DE11 /* LargestPrimeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74720A901BECCB7800D1DE11 /* LargestPrimeNumber.swift */; };
 		74BCB0DF1BF0A4F2002CCA64 /* LargestPolindromProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74BCB0DE1BF0A4F2002CCA64 /* LargestPolindromProduct.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7453C5C81BF499C8003F34A7 /* FirstPrimeNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstPrimeNumber.swift; sourceTree = "<group>"; };
 		745CBCF71BF34397009A9EEF /* SumSquareDifference.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SumSquareDifference.swift; sourceTree = "<group>"; };
 		74720A901BECCB7800D1DE11 /* LargestPrimeNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LargestPrimeNumber.swift; sourceTree = "<group>"; };
 		74BCB0DE1BF0A4F2002CCA64 /* LargestPolindromProduct.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LargestPolindromProduct.swift; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 				74BCB0DE1BF0A4F2002CCA64 /* LargestPolindromProduct.swift */,
 				74E35E811BF1FFA200A13CE8 /* SmallestMultiple.swift */,
 				745CBCF71BF34397009A9EEF /* SumSquareDifference.swift */,
+				7453C5C81BF499C8003F34A7 /* FirstPrimeNumber.swift */,
 				74CF35721BEB690300F60F76 /* Main.storyboard */,
 				74CF35751BEB690300F60F76 /* Assets.xcassets */,
 				74CF35771BEB690300F60F76 /* LaunchScreen.storyboard */,
@@ -278,6 +281,7 @@
 				74CF356F1BEB690300F60F76 /* AppDelegate.swift in Sources */,
 				74CF359D1BEB697300F60F76 /* EvenFibonacciNumbers.swift in Sources */,
 				74720A911BECCB7800D1DE11 /* LargestPrimeNumber.swift in Sources */,
+				7453C5C91BF499C8003F34A7 /* FirstPrimeNumber.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
