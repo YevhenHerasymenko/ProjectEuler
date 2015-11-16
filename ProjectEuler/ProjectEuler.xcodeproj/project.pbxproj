@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7439C6BC1BF9FE7A000FCB09 /* SpecialPythagoreanTriplet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7439C6BB1BF9FE7A000FCB09 /* SpecialPythagoreanTriplet.swift */; };
 		7453C5C91BF499C8003F34A7 /* FirstPrimeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7453C5C81BF499C8003F34A7 /* FirstPrimeNumber.swift */; };
 		745CBCF81BF34397009A9EEF /* SumSquareDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745CBCF71BF34397009A9EEF /* SumSquareDifference.swift */; };
 		745D9FA61BF5E43B00125563 /* LargestProductSeries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745D9FA51BF5E43B00125563 /* LargestProductSeries.swift */; };
@@ -41,6 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7439C6BB1BF9FE7A000FCB09 /* SpecialPythagoreanTriplet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpecialPythagoreanTriplet.swift; sourceTree = "<group>"; };
 		7453C5C81BF499C8003F34A7 /* FirstPrimeNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstPrimeNumber.swift; sourceTree = "<group>"; };
 		745CBCF71BF34397009A9EEF /* SumSquareDifference.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SumSquareDifference.swift; sourceTree = "<group>"; };
 		745D9FA51BF5E43B00125563 /* LargestProductSeries.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LargestProductSeries.swift; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 			children = (
 				74CF356E1BEB690300F60F76 /* AppDelegate.swift */,
 				74CF35701BEB690300F60F76 /* ViewController.swift */,
+				7439C6BB1BF9FE7A000FCB09 /* SpecialPythagoreanTriplet.swift */,
 				745D9FA51BF5E43B00125563 /* LargestProductSeries.swift */,
 				74CF359C1BEB697300F60F76 /* EvenFibonacciNumbers.swift */,
 				74720A901BECCB7800D1DE11 /* LargestPrimeNumber.swift */,
@@ -278,6 +281,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				745D9FA61BF5E43B00125563 /* LargestProductSeries.swift in Sources */,
+				7439C6BC1BF9FE7A000FCB09 /* SpecialPythagoreanTriplet.swift in Sources */,
 				745CBCF81BF34397009A9EEF /* SumSquareDifference.swift in Sources */,
 				74E35E821BF1FFA200A13CE8 /* SmallestMultiple.swift in Sources */,
 				74CF35711BEB690300F60F76 /* ViewController.swift in Sources */,
