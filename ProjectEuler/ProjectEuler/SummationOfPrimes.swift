@@ -21,6 +21,9 @@ class SummationOfPrimes {
                     simple = false
                     break
                 }
+                else if Double(sim) > sqrt(Double(i)) {
+                    break
+                }
             }
             if simple {
                 simpleDel.append(i)
